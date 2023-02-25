@@ -12,7 +12,7 @@ it map its into the RAM (with mmap)
 then display a square at the center of the screen  
 then you can start to draw  
   
-It use NASM and ld to make an ELF-64 executable  
+It use NASM and ld to make an ELF-64 executable (look at build.sh)  
 
 #### Keyboard
 

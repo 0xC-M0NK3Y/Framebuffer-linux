@@ -3,7 +3,7 @@ Example of using assembly and linux framebuffer in to print pixels on tty (with 
 
 ## Overview
 
-Its x86_x64 linux assembly (intel syntax)  
+Its x86-64 linux assembly (intel syntax)  
 It may not work if you don't have a packed screen type   
 
 Its basically changing terminal mode to "raw" to have a non blocking read  

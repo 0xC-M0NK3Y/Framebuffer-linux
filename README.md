@@ -13,6 +13,8 @@ then display a square at the center of the screen
 then you can start to draw  
   
 It use NASM and ld to make an ELF-64 executable (look at build.sh)  
+  
+you need to switch to a tty to see (Ctrl-Alt-F1-9)
 
 #### Keyboard
 
